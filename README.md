@@ -4,7 +4,7 @@
 
 ---
 
-## 🤍 Sobre mí
+## Sobre mí
 
 * 🎓 Estudiante en la **Universidad de Guayaquil**
 * 🔎 Me gusta aprender nuevas tecnologías y resolver problemas complejos a través de los datos.
